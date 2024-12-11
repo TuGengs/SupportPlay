@@ -1,2 +1,2 @@
 # SupportPlay
-The source code will be released as soon
+Please refer to https://github.com/HITSZ-HLT/Supportplay
